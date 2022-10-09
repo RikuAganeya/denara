@@ -47,9 +47,9 @@ global.psaweria = 'https://saweria.com/denarabot26'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285727492435'
-global.nomorown = '6281215626270'
-global.namebot = 'DENARA-BOT-V1'
-global.nameown = 'DENARA BOT'
+global.nomorown = '6285847218879'
+global.namebot = 'PERRO-BOT-V1'
+global.nameown = 'PAKYAN BOT'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281215626270', 'DENARA', true],
+  ['6285847218879', 'PAKYAN', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DENARA-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DENARA-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DENARA-BOT-V1 '
+global.wm = '                「 PERRO-BOT-V1 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘PERRO-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ PERRO-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By DENARA-BOT`
-global.author = '                「 DENARA-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By PAKYAN-BOT`
+global.author = '                「 PERRO-BOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DENARA-BOT-V1'
-global.stickauth = `By ©DENARA BOT`
+global.stickpack = 'PAKYAN-BOT-V1'
+global.stickauth = `By ©PAKYAN BOT`
 
 global.multiplier = 38 // The higher, The harder levelup
 
